@@ -3,3 +3,8 @@ Console.WriteLine("Sofa");
 Console.WriteLine("Chair");
 Console.WriteLine("Bed");
 Console.WriteLine("Stove");
+
+
+
+
+Console.WriteLine("Tablet");
