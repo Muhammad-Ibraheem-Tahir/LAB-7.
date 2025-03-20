@@ -7,4 +7,6 @@ Console.WriteLine("Stove");
 
 
 
+
 Console.WriteLine("Tablet");
+Console.WriteLine("Mobile");
